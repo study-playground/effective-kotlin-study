@@ -7,4 +7,5 @@
 * 2월 1일부터 발표 시작하고 2월 8일은 스킵, 2월 15일부터 다시 진행
 
 ### 정리
-* [1장 안정성](https://github.com/effective-kotlin/study/issues/1)
+* [Item 01. 가변성을 제한하라](https://github.com/study-playground/effective-kotlin-study/issues/1)
+* [Item 02. 변수의 스코프를 최소화하라](https://github.com/study-playground/effective-kotlin-study/issues/2)
