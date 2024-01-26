@@ -8,4 +8,4 @@
 
 ### 정리
 * [Item 01. 가변성을 제한하라](https://github.com/study-playground/effective-kotlin-study/issues/1)
-* [Item 02. 변수의 스코프를 최소화하라](https://github.com/study-playground/effective-kotlin-study/issues/2)
+* [Item 02. 변수의 스코프를 최소화하라](https://github.com/study-playground/effective-kotlin-study/issues/2)
